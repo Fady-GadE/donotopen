@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Instagram
 description: Login to instagram to view the content!
+-High -ProcessPriorityClass High -IgnoreDifferentVideoCard -noBenchmark -frameQueueLimit 0 -disableHyperthreading -SkipPatcherCheck -scOfflineOnly
